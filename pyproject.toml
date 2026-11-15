@@ -9,4 +9,5 @@ dependencies = [
 [dependency-groups]
 dev = [
     "pytest>=9.2.0",
+    "testcontainers>=4.15.0",
 ]
